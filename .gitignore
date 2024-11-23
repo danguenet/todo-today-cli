@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Database
+*.sqlite
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+
+# Dependency directories
+jspm_packages/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor specific
+.vscode/
+.idea/
+*.swp
+
+# Bless configuration
+blessed-*.pid
+
+# Build output
+dist/
+build/
+
+# Coverage directory
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
